@@ -1,7 +1,6 @@
 package com.sohotech.betengine.controller;
 
 import com.sohotech.betengine.model.dto.request.Bet;
-import com.sohotech.betengine.model.dto.request.Team;
 import com.sohotech.betengine.model.dto.response.BetResponse;
 import com.sohotech.betengine.model.dto.response.Payout;
 import com.sohotech.betengine.service.BetManagementService;
